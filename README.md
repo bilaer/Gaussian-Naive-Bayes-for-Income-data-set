@@ -1,4 +1,4 @@
-# Gaussian Naive Bayes for Income Data Set
+# Gaussian Naive Bayes Classifier for Income Data Set
 GNB classifier trained to predict individual's income
 
 ## Data Set
